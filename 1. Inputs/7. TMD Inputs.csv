@@ -1,0 +1,3 @@
+TMD#, Location, Direction, Tuned_Frequency(rad/sec or Modes), Mass_ratio
+[1],[17],[X],[Mode 1],[0.1]
+[2],[11],[X],[Mode 1],[0.1]

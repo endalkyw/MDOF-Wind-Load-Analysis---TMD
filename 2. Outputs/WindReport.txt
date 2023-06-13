@@ -1,0 +1,5 @@
+Mean wind speed at 10m (Cat. C)	  25.00m/s
+Turbulence intensity at 10m	  16.1%
+Friction velocity		  1.61m/s
+Power law exponent		  0.154
+Roughness length		  0.020m
